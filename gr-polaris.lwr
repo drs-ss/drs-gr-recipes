@@ -23,8 +23,5 @@ depends:
 description: OOT module for DRS Polaris
 gitbranch: master
 inherit: cmake
-satisfy:
-  deb: polaris
-  port: polaris
 source: https://github.com/drs-ss/gr-polaris.git
 
